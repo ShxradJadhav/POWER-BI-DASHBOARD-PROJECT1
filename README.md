@@ -6,6 +6,10 @@ The **Amazon Sales Analysis Dashboard** is a Power BI project designed to showca
 
 This project demonstrates proficiency in **Power BI**, **DAX**, and **data storytelling**, making it a valuable addition to my portfolio. The dashboard is interactive, enabling users to filter and explore data dynamically.
 
+
+<img width="692" alt="Dash0" src="https://github.com/user-attachments/assets/5283307f-b7ca-4aac-8c4d-0da434246d1b" />
+
+
 ## Key Features
 - **Sales Projection**: Displays total projected sales ($12.64M) for the given period.
 - **Product Unit / Quantity**: Shows the total number of products sold (3,788 units).
@@ -38,6 +42,12 @@ This project can be customized to include:
 - **Customer Segmentation Analysis**: Deeper insights into customer buying behavior.
 - **Real-Time Data Updates**: Connect to live databases for up-to-date analytics.
 - **Enhanced Performance Optimization**: Implement advanced DAX measures for better performance.
+
+<img width="692" alt="Dash2" src="https://github.com/user-attachments/assets/36b91189-f41f-40be-9212-f2554e71bd74" />
+
+<img width="960" alt="Dash1" src="https://github.com/user-attachments/assets/ab834ab2-c42d-4e22-98dc-81e01548ed6a" />
+
+<img width="960" alt="Dash3" src="https://github.com/user-attachments/assets/b9b06d3f-57c9-44d9-88b4-5444a15e8fe9" />
 
 
 ## Contact & Connect
